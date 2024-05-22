@@ -1,0 +1,16 @@
+Pizza Sales Analysis Project
+
+Overview:
+This project involves a comprehensive analysis of pizza sales using Tableau Desktop. Key performance indicators (KPIs) such as total revenue, average order value, total pizzas sold, total orders, and average pizzas per order were calculated and cross-checked with SQL queries.
+
+Dashboard 1:
+
+Hourly and Weekly Trends: Visualization of pizza orders to identify peak times and days.
+Sales Breakdown: Percentage of sales by pizza category and size.
+Totals by Category: Total orders and pizzas sold by category.
+Sales Insights: Highlighting the busiest hours and weeks, and maximum sales by category and size.
+Dashboard 2:
+
+Top and Bottom Performers: Top five and bottom five pizzas by revenue, total pizzas sold, and orders.
+Detailed Sales Analysis: Maximum and minimum sales for pizzas by size and category.
+This project provides actionable insights into sales trends and performance, aiding in strategic decision-making for inventory and marketing strategies.
